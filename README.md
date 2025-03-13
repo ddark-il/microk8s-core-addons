@@ -1,6 +1,7 @@
 # microk8s-addons
 
 This repository contains the core addons that ship along with MicroK8s.
+My fork only disables dashboard addon
 
 ## Directory structure
 
